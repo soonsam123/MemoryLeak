@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_main"
+        android:title="Main" />
+    <item
+        android:id="@+id/menu_second"
+        android:title="Second" />
+    <item
+        android:id="@+id/menu_third"
+        android:title="Third" />
+    <item
+        android:id="@+id/menu_fourth"
+        android:title="Fourth" />
+    <item
+        android:id="@+id/menu_retrofit"
+        android:title="Retrofit" />
+    <item
+        android:id="@+id/menu_handle_cc"
+        android:title="HandleCC" />
+    <item
+        android:id="@+id/menu_background"
+        android:title="Background" />
+</menu>
